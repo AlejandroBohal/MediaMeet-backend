@@ -43,4 +43,8 @@ buildNumber.properties
 bin/
 build/
 /bin1/
+.classpath
+.project
+.settings/
+target/
 
